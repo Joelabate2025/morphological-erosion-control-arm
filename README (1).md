@@ -1,5 +1,5 @@
 
-# Morphological Erosion on Control Arm
+# Morphological Erosion on Control Arm as a practical example
 
 This project demonstrates the application of morphological erosion on a binary mask derived from a 3D CAD model of a control arm, commonly used in lightweight structures in automotive and aerospace industries.
 
